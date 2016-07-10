@@ -1,4 +1,4 @@
-package com.company;
+package com.company.algo;
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;

@@ -1,4 +1,4 @@
-package com.company;
+package com.company.algo;
 
 /**
  * Created by dangineering on 7/8/16.
