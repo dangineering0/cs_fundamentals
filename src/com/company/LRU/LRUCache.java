@@ -13,18 +13,16 @@ import java.util.Iterator;
  set(key, value) - Set or insert the value if the key is not already present. When the cache reached its capacity, it should invalidate the least recently used item before inserting a new item.
  */
 
-public class LRUCache implements Iterable {
+public class LRUCache {
 
     HashMap<Integer, DoublyLinkedList> map;
     DoublyLinkedList head;
     DoublyLinkedList tail;
-    DDIterator ddIterator;
     int capacity;
 
     public LRUCache(int capacity) {
         map = new HashMap<>();
         this.capacity = capacity;
-        this.ddIterator = new DDIterator();
     }
 
     public int get(int key) {
@@ -32,8 +30,7 @@ public class LRUCache implements Iterable {
             return -1;
         } else {
             DoublyLinkedList d = map.get(key);
-            appendToHead(d);
-            removeAt(d);
+            appendToHead(removeAt(d));
             return d.val;
         }
     }
@@ -63,8 +60,7 @@ public class LRUCache implements Iterable {
             // update value
             DoublyLinkedList curD = map.get(key);
             curD.val = value;
-            appendToHead(curD);
-            removeAt(curD);
+            appendToHead(removeAt(curD));
         }
 
     }
@@ -72,7 +68,7 @@ public class LRUCache implements Iterable {
     private void appendToHead(DoublyLinkedList d) {
         d.next = head;
         head.prev = d;
-        head = head.prev;
+        head = d;
     }
 
     private void removeLeastRecentlyUsed() {
@@ -84,46 +80,32 @@ public class LRUCache implements Iterable {
             head = null;
             tail = null;
         } else {
-            tail.prev.next = null;
+            tail = tail.prev;
         }
     }
 
-    private void removeAt(DoublyLinkedList d) {
-        if (d.prev != null) {
-            d.prev = d.next;
-        } else {
-            d.next.prev = null;
+    private DoublyLinkedList removeAt(DoublyLinkedList d) {
+        if (d == tail) {
+            tail = tail.prev;
         }
+        DoublyLinkedList cached = d;
+        DoublyLinkedList before = d.prev;
+        DoublyLinkedList after = d.next;
+        if (before != null) {
+            before.next = after;
+        }
+
+        // cut off cached
+        cached.prev = null;
+        cached.next = null;
+
+        return cached;
     }
 
-    @Override
-    public DDIterator iterator() {
-        return ddIterator;
-    }
 
-
-    class DDIterator implements Iterator<DoublyLinkedList>{
-
-        DoublyLinkedList curNode;
-
-        DDIterator() {
-            curNode = head;
-        }
-
-        @Override
-        public boolean hasNext() {
-            return curNode != null;
-        }
-
-        @Override
-        public DoublyLinkedList next() {
-
-            DoublyLinkedList res = curNode;
-            curNode = curNode.next;
-            return res;
-        }
-    }
-
+    /**
+     * Doubly LL
+     */
     static class DoublyLinkedList {
         DoublyLinkedList prev;
         DoublyLinkedList next;
