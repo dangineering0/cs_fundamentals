@@ -2,37 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a04545b2-a142-446f-b678-faec559a8b6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/LRU/LRUCacheNonIter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/MergeTwoArrays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/MergeTwoListTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/OneEditDistCtci.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/OneEditDistance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/OneEditDistanceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/SpiralMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/TextJustification.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/TextJustificationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Vector2D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Vector2DTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/WordBreak.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/WordBreakTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/CombSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/CombSumL.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/CombSumL2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/CombSumL2Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/CombSumLTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/CombSumTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/MergeSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/SpiralMatrixTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/TestMergeSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/TreeOrderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/TreeTraverse.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/interviewing/com/company/LRU/LRUCache$DDIterator.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/interviewing/com/company/LRU/LRUCache$DoublyLinkedList.class" afterPath="$PROJECT_DIR$/out/production/interviewing/com/company/LRU/LRUCache$DoublyLinkedList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/interviewing/com/company/LRU/LRUCache.class" afterPath="$PROJECT_DIR$/out/production/interviewing/com/company/LRU/LRUCache.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/interviewing/com/company/LRU/LRUTest.class" afterPath="$PROJECT_DIR$/out/production/interviewing/com/company/LRU/LRUTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/LRU/LRUCache.java" afterPath="$PROJECT_DIR$/src/com/company/LRU/LRUCache.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/LRU/LRUTest.java" afterPath="$PROJECT_DIR$/src/com/company/LRU/LRUTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/AlienOrder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/AlienOrderLeetcode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/AlienOrderLeetcodeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/FibMemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/FibMemoTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/FullJustufy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/GenericTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Multiply.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/WordLadder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/TopoSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/algo/TopoSortLegit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/interviewing/com/company/Vector2D.class" afterPath="$PROJECT_DIR$/out/production/interviewing/com/company/Vector2D.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="interviewing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,108 +35,80 @@
     <favorites_list name="interviewing" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.80508476">
+    <splitter split-orientation="horizontal" split-proportion="0.46723905">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="TreeTraverse.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/algo/TreeTraverse.java">
+          <file leaf-file-name="AlienOrder.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/company/AlienOrder.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="500">
-                  <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="WordBreakTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/WordBreakTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="400">
-                  <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+                <state relative-caret-position="764">
+                  <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
                   <folding>
-                    <element signature="imports" expanded="true" />
+                    <element signature="e#1060#1071#0" expanded="true" />
+                    <element signature="e#1129#1149#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="OneEditDistCtci.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/OneEditDistCtci.java">
+          <file leaf-file-name="FullJustufy.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/company/FullJustufy.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="160">
-                  <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="MergeTwoArrays.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/MergeTwoArrays.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="20">
-                  <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <state relative-caret-position="2088">
+                  <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
                   <folding>
                     <element signature="imports" expanded="true" />
+                    <element signature="e#374#375#0" expanded="true" />
+                    <element signature="e#416#417#0" expanded="true" />
+                    <element signature="e#451#452#0" expanded="true" />
+                    <element signature="e#491#492#0" expanded="true" />
+                    <element signature="e#525#526#0" expanded="true" />
+                    <element signature="e#562#563#0" expanded="true" />
+                    <element signature="e#2215#2223#0" expanded="true" />
+                    <element signature="e#2388#2394#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TextJustification.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/TextJustification.java">
+          <file leaf-file-name="WordLadder.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/company/WordLadder.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="40">
-                  <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+                <state relative-caret-position="209">
+                  <caret line="17" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Vector2D.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Vector2D.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/com/company/Vector2D.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="371">
-                  <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+                <state relative-caret-position="629">
+                  <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#468#469#0" expanded="true" />
-                    <element signature="e#512#513#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
-            <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/List.java">
+          <file leaf-file-name="FibMemo.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/company/FibMemo.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="219">
-                  <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+                <state relative-caret-position="293">
+                  <caret line="43" column="36" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="36" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="CombSum.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/algo/CombSum.java">
+          <file leaf-file-name="Multiply.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/company/Multiply.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="79" />
+                <state relative-caret-position="552">
+                  <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CombSumL.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/algo/CombSumL.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#298#313#0" expanded="true" />
-                    <element signature="e#455#464#0" expanded="true" />
-                    <element signature="e#718#727#0" expanded="true" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -163,181 +117,32 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="CombSumLTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/algo/CombSumLTest.java">
+          <file leaf-file-name="AlienOrderLeetcodeTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/company/AlienOrderLeetcodeTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="260">
-                  <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+                <state relative-caret-position="384">
+                  <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="WordBreak.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/WordBreak.java">
+          <file leaf-file-name="FibMemoTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/company/FibMemoTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="640">
-                  <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-            <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/String.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="37720">
-                  <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
-                  <folding>
-                    <element signature="e#0#124311#0" expanded="false" />
-                    <element signature="imports" expanded="false" />
-                    <element signature="e#4677#4678#0" expanded="false" />
-                    <element signature="e#4714#4715#0" expanded="false" />
-                    <element signature="e#5687#5688#0" expanded="false" />
-                    <element signature="e#5750#5751#0" expanded="false" />
-                    <element signature="e#13098#13099#0" expanded="false" />
-                    <element signature="e#13150#13151#0" expanded="false" />
-                    <element signature="e#18781#18782#0" expanded="false" />
-                    <element signature="e#18834#18835#0" expanded="false" />
-                    <element signature="e#20727#20728#0" expanded="false" />
-                    <element signature="e#20771#20772#0" expanded="false" />
-                    <element signature="e#21961#21962#0" expanded="false" />
-                    <element signature="e#22041#22042#0" expanded="false" />
-                    <element signature="e#22786#22787#0" expanded="false" />
-                    <element signature="e#22821#22822#0" expanded="false" />
-                    <element signature="e#23072#23073#0" expanded="false" />
-                    <element signature="e#23112#23113#0" expanded="false" />
-                    <element signature="e#29462#29463#0" expanded="false" />
-                    <element signature="e#29533#29534#0" expanded="false" />
-                    <element signature="e#36393#36394#0" expanded="false" />
-                    <element signature="e#36459#36460#0" expanded="false" />
-                    <element signature="e#38369#38370#0" expanded="false" />
-                    <element signature="e#38423#38424#0" expanded="false" />
-                    <element signature="e#47538#47539#0" expanded="false" />
-                    <element signature="e#47602#47603#0" expanded="false" />
-                    <element signature="e#55800#55801#0" expanded="false" />
-                    <element signature="e#55844#55845#0" expanded="false" />
-                    <element signature="e#56437#56438#0" expanded="false" />
-                    <element signature="e#56514#56515#0" expanded="false" />
-                    <element signature="e#58481#58482#0" expanded="false" />
-                    <element signature="e#58518#58519#0" expanded="false" />
-                    <element signature="e#62860#62861#0" expanded="false" />
-                    <element signature="e#62916#62917#0" expanded="false" />
-                    <element signature="e#66457#66458#0" expanded="false" />
-                    <element signature="e#66495#66496#0" expanded="false" />
-                    <element signature="e#70749#70750#0" expanded="false" />
-                    <element signature="e#70802#70803#0" expanded="false" />
-                    <element signature="e#78240#78241#0" expanded="false" />
-                    <element signature="e#78299#78300#0" expanded="false" />
-                    <element signature="e#82616#82617#0" expanded="false" />
-                    <element signature="e#82667#82668#0" expanded="false" />
-                    <element signature="e#82971#82972#0" expanded="false" />
-                    <element signature="e#83020#83021#0" expanded="false" />
-                    <element signature="e#94598#94599#0" expanded="false" />
-                    <element signature="e#94636#94637#0" expanded="false" />
-                    <element signature="e#104675#104676#0" expanded="false" />
-                    <element signature="e#104730#104731#0" expanded="false" />
-                    <element signature="e#111196#111197#0" expanded="false" />
-                    <element signature="e#111251#111252#0" expanded="false" />
-                    <element signature="e#113343#113344#0" expanded="false" />
-                    <element signature="e#113370#113371#0" expanded="false" />
-                    <element signature="e#117893#117894#0" expanded="false" />
-                    <element signature="e#117955#117956#0" expanded="false" />
-                    <element signature="e#118405#118406#0" expanded="false" />
-                    <element signature="e#118444#118445#0" expanded="false" />
-                    <element signature="e#119456#119457#0" expanded="false" />
-                    <element signature="e#119510#119511#0" expanded="false" />
-                    <element signature="e#120159#120160#0" expanded="false" />
-                    <element signature="e#120213#120214#0" expanded="false" />
-                    <element signature="e#120482#120483#0" expanded="false" />
-                    <element signature="e#120521#120522#0" expanded="false" />
-                    <element signature="e#120889#120890#0" expanded="false" />
-                    <element signature="e#120932#120933#0" expanded="false" />
-                    <element signature="e#121727#121728#0" expanded="false" />
-                    <element signature="e#121769#121770#0" expanded="false" />
-                    <element signature="e#122184#122185#0" expanded="false" />
-                    <element signature="e#122223#122224#0" expanded="false" />
-                    <element signature="e#122645#122646#0" expanded="false" />
-                    <element signature="e#122685#122686#0" expanded="false" />
-                    <element signature="e#123115#123116#0" expanded="false" />
-                    <element signature="e#123156#123157#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CombSumL2Test.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/algo/CombSumL2Test.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                <state relative-caret-position="168">
+                  <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="CombSumL2.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/algo/CombSumL2.java">
+          <file leaf-file-name="GenericTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/company/GenericTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+                <state relative-caret-position="192">
+                  <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="OneEditDistanceTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/OneEditDistanceTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="620">
-                  <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="MergeTwoListTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/MergeTwoListTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="280">
-                  <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TextJustificationTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/TextJustificationTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="220">
-                  <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="OneEditDistance.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/OneEditDistance.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Vector2DTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/com/company/Vector2DTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="780">
-                  <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -364,17 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/MergeSortedLists.java" />
-        <option value="$PROJECT_DIR$/src/com/company/MoveZeroes.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Scr.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Scratch.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Sq.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Sqrt.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LRUcache.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LRUCache.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ReverseLL.java" />
-        <option value="$PROJECT_DIR$/src/com/company/PermPalindrome.java" />
         <option value="$PROJECT_DIR$/src/com/company/Sudoku.java" />
         <option value="$PROJECT_DIR$/src/com/company/SubsetsTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/Subsets.java" />
@@ -415,14 +209,25 @@
         <option value="$PROJECT_DIR$/src/com/company/TextJustificationTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/Vector2DTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/Vector2D.java" />
+        <option value="$PROJECT_DIR$/src/com/company/algo/TopoSort.java" />
+        <option value="$PROJECT_DIR$/src/com/company/algo/TopoSortLegit.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AlienOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AlienOrderLeetcodeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/FullJustufy.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Memo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/WordLadder.java" />
+        <option value="$PROJECT_DIR$/src/com/company/FibMemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/FibMemoTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Multiply.java" />
+        <option value="$PROJECT_DIR$/src/com/company/GenericTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="112" />
-    <option name="y" value="543" />
-    <option name="width" value="2124" />
-    <option name="height" value="813" />
+    <option name="x" value="22" />
+    <option name="y" value="129" />
+    <option name="width" value="2560" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -449,9 +254,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -490,10 +292,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$3/Languages" value="JAVA" />
     <property name="recentsLimit" value="5" />
@@ -501,67 +306,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/dangineering/IdeaProjects/interviewing/src/com/company/algo/TreeTraverse.java" />
   </component>
-  <component name="RunManager" selected="Application.Vector2DTest">
-    <configuration default="false" name="WordBreakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.WordBreakTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="interviewing" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="OneEditDistanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.OneEditDistanceTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="interviewing" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MergeTwoListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.MergeTwoListTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="interviewing" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.GenericTest">
     <configuration default="false" name="TextJustificationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -590,6 +335,66 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.company.Vector2DTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="interviewing" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AlienOrderLeetcodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.AlienOrderLeetcodeTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="interviewing" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FibMemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.FibMemoTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="interviewing" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.GenericTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -815,19 +620,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.WordBreakTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.OneEditDistanceTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MergeTwoListTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TextJustificationTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Vector2DTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TextJustificationTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Vector2DTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AlienOrderLeetcodeTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FibMemoTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GenericTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Vector2DTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TextJustificationTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MergeTwoListTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.OneEditDistanceTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.WordBreakTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GenericTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FibMemoTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AlienOrderLeetcodeTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Vector2DTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TextJustificationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -857,27 +662,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="543" width="2124" height="813" extended-state="0" />
-    <editor active="false" />
+    <frame x="22" y="129" width="2560" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24657534" sideWeight="0.49659202" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24559586" sideWeight="0.49659202" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1904762" sideWeight="0.53010124" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16277196" sideWeight="0.46989876" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19481865" sideWeight="0.46989876" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14649376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12112788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1780822" sideWeight="0.48375067" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2777202" sideWeight="0.48375067" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1362,6 +1167,24 @@
           <properties />
           <option name="timeStamp" value="120" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/FibMemo.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/FibMemo.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/FibMemo.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/company/algo/TreeOrderTest.java</url>
           <line>15</line>
@@ -1369,7 +1192,7 @@
           <option name="timeStamp" value="79" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="121" />
+      <option name="time" value="126" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1378,86 +1201,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/algo/MergeSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/algo/MoveZeroes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/algo/MergeSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/algo/MoveZeroes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/algo/MergeSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interviewing.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/algo/Sudoku.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/algo/Sqrt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/algo/Scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/algo/ReverseLL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/algo/PermPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/algo/MergeSortedLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1524,8 +1267,8 @@
         <state relative-caret-position="537">
           <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
           <folding>
-            <element signature="e#1134#1135#0" expanded="true" />
-            <element signature="e#1189#1190#0" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="false" />
+            <element signature="e#1189#1190#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1598,7 +1341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1677,14 +1419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/algo/CombSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/algo/CombSumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -1695,7 +1429,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/algo/CombSumL2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
@@ -1703,7 +1437,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/algo/CombSumL2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="0">
           <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           <folding />
         </state>
@@ -1711,7 +1445,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/algo/CombSumLTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="0">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
@@ -1719,7 +1453,7 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37720">
+        <state relative-caret-position="0">
           <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
           <folding>
             <element signature="e#0#124311#0" expanded="false" />
@@ -1800,7 +1534,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/WordBreakTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
+        <state relative-caret-position="380">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1810,7 +1544,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/WordBreak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
+        <state relative-caret-position="0">
           <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1823,17 +1557,17 @@
         <state relative-caret-position="380">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#298#313#0" expanded="true" />
-            <element signature="e#455#464#0" expanded="true" />
-            <element signature="e#718#727#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#298#313#0" expanded="false" />
+            <element signature="e#455#464#0" expanded="false" />
+            <element signature="e#718#727#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/OneEditDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
@@ -1841,7 +1575,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/OneEditDistCtci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
@@ -1849,7 +1583,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/OneEditDistanceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
+        <state relative-caret-position="0">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
@@ -1857,7 +1591,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/MergeTwoArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
+        <state relative-caret-position="0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1867,15 +1601,19 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
+        <state relative-caret-position="0">
           <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="e#0#33182#0" expanded="false" />
+            <element signature="e#33104#33105#0" expanded="false" />
+            <element signature="e#33178#33179#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/MergeTwoListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
@@ -1883,7 +1621,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/TextJustificationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1893,8 +1631,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/TextJustification.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
+        <state relative-caret-position="0">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Vector2DTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/algo/CombSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AlienOrderLeetcode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1907,25 +1671,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Vector2DTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/algo/TopoSortLegit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="279">
+          <caret line="37" column="38" selection-start-line="0" selection-start-column="2" selection-end-line="141" selection-end-column="3" />
+          <folding>
+            <marker date="1468471605000" expanded="true" signature="2218:2590" ph="/**...*/" />
+            <marker date="1468471605000" expanded="true" signature="2648:3663" ph="{...}" />
+            <marker date="1468471605000" expanded="true" signature="3676:4146" ph="/**...*/" />
+            <marker date="1468471605000" expanded="true" signature="4340:5694" ph="{...}" />
+            <marker date="1468471605000" expanded="true" signature="5704:5857" ph="/**...*/" />
+            <marker date="1468471605000" expanded="true" signature="5933:6404" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/algo/TopoSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AlienOrderLeetcodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/FullJustufy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2088">
+          <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#2215#2223#0" expanded="true" />
+            <element signature="e#2388#2394#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Vector2D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="629">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/WordLadder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AlienOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+          <folding>
+            <element signature="e#1060#1071#0" expanded="true" />
+            <element signature="e#1129#1149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/FibMemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/FibMemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Multiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GenericTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
